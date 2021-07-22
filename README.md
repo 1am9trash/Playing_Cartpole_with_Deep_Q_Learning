@@ -2,7 +2,7 @@
 
 Github repo link
 ---
-https://github.com/1am9trash/NYCU_2021_Spring_AI_Final_Project
+https://github.com/1am9trash/Playing_Cartpole_with_Deep_Q_Learning
 
 Introduction:
 ---
